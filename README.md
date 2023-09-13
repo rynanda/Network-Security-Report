@@ -1,2 +1,2 @@
-# Network-Security-Report
-A report investigating a problem with a file server on a company's network using WireShark. As part of CAB303 - Networks.
+# Network Security Report
+Involves researching and describing normal expected behaviour of the TCP, identifiying anomalous behaviour or patterns within a Wireshark capture file, identifying impacted TCP header fields and other observations of anomalous behaviour exhibited in other layers if applicable. Using this information, identify and explain what type of attack has likely occured and provide on-premmises and outsourced mitigation strategies to stop this occuring in the future.
